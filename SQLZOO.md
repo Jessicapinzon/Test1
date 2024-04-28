@@ -1,6 +1,10 @@
 
 # Sección 01. SELECT basics
 
+## Pregunta 01
+
 ```sql
-SELECT * FROM tabla WHERE condición;
+SELECT population
+FROM world
+WHERE name = 'Germany'
 ```
