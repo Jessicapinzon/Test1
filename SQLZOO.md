@@ -35,4 +35,4 @@ FROM world
 WHERE area BETWEEN 200000 AND 250000
 ```
 ## Pregunta 04
-![Texto alternativo](URL_de_la_imagen)
+![Texto alternativo](Imagenes/Test1.png)
